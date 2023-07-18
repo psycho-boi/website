@@ -248,4 +248,20 @@ a {
   border: 1px solid rgba(133, 133, 133, 0.5);
   border-radius: 23px;
 }
-/*blogs*/
+
+
+
+
+
+
+/*Pricing */
+.Pricing{
+  padding: 5px;
+  margin: 5px;
+  display: inline-block;
+  height: 100%;
+  width: 500px;
+  border-radius: 23px;
+  border: 1px solid rgb(177, 177, 177);
+  min-width: 400px;
+}
