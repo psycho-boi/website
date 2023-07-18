@@ -255,13 +255,29 @@ a {
 
 
 /*Pricing */
+
+
 .Pricing{
   padding: 5px;
-  margin: 5px;
+  margin: 2px;
   display: inline-block;
   height: 100%;
-  width: 500px;
+  width: 300px;
   border-radius: 23px;
   border: 1px solid rgb(177, 177, 177);
-  min-width: 400px;
+  min-width: 100px;
+}
+
+.Pricing:hover{
+  transform: scale(1.05);
+}
+
+.btn1{
+  width: 70%;
+  background-color: red;
+  color: white;
+}
+
+.btn1:hover{
+  background-color: rgb(255, 45, 45);
 }
